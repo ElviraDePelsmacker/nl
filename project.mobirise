@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "website 2017",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,14 +22,14 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-96166865-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "cookiesAlert": ""
+    "cookiesAlert": "deze site gebruikt cookies "
   },
   "pages": {
     "index.html": {
@@ -47,20 +47,30 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
           "_anchor": "header1-2",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/blauwe-steen.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-9.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -69,7 +79,7 @@
           },
           "title": "Elvira De Pelsmacker",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Nederlands</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">english</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Nederlands</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">english</a>"
         },
         {
           "_tags": [
@@ -79,8 +89,10 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "18px",
-              "color": "#efefef",
-              "text-align": "center"
+              "color": "#cccccc",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_anchor": "header1-8",
@@ -96,14 +108,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "Elvira De Pelsmacker (Brugge, 1994°)<br>Opgegroeid in een huis vol kunst en met kunstenaars als ouders, was de keuze evident om zelf ook voor kunst te gaan. Vanaf mijn 12de leerde ik de draaischijf kennen. Het was toen dat ik besefte dat keramiek in mijn handen zat. Zes jaar later besloot ik dan ook om zelf keramiek te studeren in Sint-Lukas school of arts in Gent. Hier leerde ik een andere kant van de keramiek kennen: de artistieke kant. Alhoewel ik bleef oefenen op mijn draaiwerk begon ik toch meer en meer bezig te zijn met sculptuur. Zo combineer ik de beide talenten van mijn ouders. Toch blijft de ambacht in de keramiek voor mij een belangrijk punt. Het is een techniek die je moet kennen om verder te kunnen als professionele keramieker.<br>&nbsp; &nbsp;&nbsp;",
+          "title": "Elvira De Pelsmacker (Brugge, 1994°)<br>Opgegroeid in een huis vol kunst en met kunstenaars als ouders, was de keuze evident om zelf ook voor kunst te gaan. Vanaf haar 12de leerde ze de draaischijf kennen. Het was toen dat zij besefte dat keramiek in haar handen zat. Zes jaar later besloot ze dan ook om zelf keramiek te studeren in Sint-Lukas school of arts in Gent. Hier leerde ze een andere kant van de keramiek kennen: de artistieke kant. Alhoewel ze bleef oefenen op &nbsp;draaiwerk begon ze toch meer en meer bezig te zijn met sculptuur. Zo combineert ze de beide talenten van haar ouders. Toch blijft de ambacht in de keramiek voor haar een belangrijk punt.&nbsp;<br>&nbsp; &nbsp;&nbsp;",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -113,7 +125,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -122,7 +136,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -164,14 +180,18 @@
           "_params": {
             "bgColor": "#282828",
             "fontSize": "0.95",
-            "fontName": {},
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
-            "collapsed": true,
+            "showBrand": false,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -203,10 +223,16 @@
           "_name": "features3",
           "_styles": {
             "H5": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "16px",
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
             }
           },
           "_anchor": "features3-7",
@@ -246,7 +272,7 @@
           },
           "title1": "2014-2015",
           "subtitle1": "",
-          "caption1": "In mijn eerste jaar ben ik voor het eerst in contact gekomen met groot opbouwen.&nbsp;",
+          "caption1": "In haar eerste jaar is Elvira voor het eerst in contact gekomen met groot opbouwen van vazen.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
           "media2": {
             "image": {
@@ -262,23 +288,27 @@
           },
           "title2": "2015-2016",
           "subtitle2": "",
-          "caption2": "verder vanuit het groot opbouwen ben ik bezig geweest met groot werken. eerste project was een sculptuur gebaseerd op Blossfeldt. Met mijn tweede project ben ik hierop verder gegaan.",
+          "caption2": "verder vanuit het groot opbouwen is Elvira bezig geweest met groot werken. Eerste project was een sculptuur gebaseerd op Blossfeldt. Met haar tweede project is zij hierop verder gegaan.",
           "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-5.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "2016-2017",
           "subtitle3": "",
-          "caption3": "van 15 augustus tot 15 februari heb ik mijn studie in Zweden doorgebracht. Vanaf januari ben ik verder gegaan in Gent met het verder uitwerken van groot werken. Mijn project draait terug rond Blossfeldt en bestaat uit een vaas van maar liefst 2m10.&nbsp;",
+          "caption3": "van 15 augustus tot 15 februari heef Elvira in Zweden gezeten voor haar studie. Vanaf januari is ze terug begonnen in Gent met het verder uitwerken van groot werken. Haar project draait terug rond Blossfeldt en bestaat uit een vaas van maar liefst 2m10.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-6.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -289,7 +319,7 @@
             }
           },
           "title4": "Zweden",
-          "subtitle4": "Zweden was een jaar van uitproberen. Aan de hand van verschillende opdrachten en van de cultuur ben ik enorm gegroeid in Zweden.",
+          "subtitle4": "In Zweden had Elvira de kans om verder te groeien in haar studie. Door verschillende opdrachten leerde ze om te gaan met verantwoordelijkheid.&nbsp;",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
           "media5": {
@@ -351,6 +381,12 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "contacts2-e",
           "_params": {
             "paddingTop": 3,
@@ -388,7 +424,10 @@
               "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#9c9a9a",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -401,7 +440,7 @@
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -416,7 +455,7 @@
             "showButtons": false
           },
           "title": "2015-2014",
-          "text": "Mijn eerste jaar Keramiek in Sint-Lukas school of arts te Gent. Dit jaar bestond vooral uit lespakketten waar we technieken leerden en opdrachten moesten vervullen. Toch kon je al een beetje je eigen weg gaan. In dit jaar heb ik me eerst bezig gehouden met de vorm van bloemen en die omgezet naar sculpturen om me vervolgens bezig te houden met vazen en deze te vergroten.",
+          "text": "Eerste jaar Keramiek in Sint-Lukas school of arts te Gent. &nbsp;In dit jaar is Elvira eerst bezig geweest met de vorm van bloemen en deze omgezet naar sculpturen om haar vervolgens bezig te houden met vazen en deze te vergroten.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
@@ -537,7 +576,10 @@
               "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#9c9a9a",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -550,7 +592,7 @@
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -565,7 +607,7 @@
             "showButtons": false
           },
           "title": "2015-2016",
-          "text": "In mijn 2de jaar op Sint Lukas, school of arts, heb ik me verder gefocust op sculptuur. Mijn concept ging over de opwarming van de aarde, hiervoor heb ik een tak van 1m geboetseerd en deze geglazuurd met zilveren glazuur. Om aan te tonen dat de natuur iets waardevol is. Deze tak heb ik dan op verschillende openbare plaatsen gelegd om te zien of deze opging in de omgeving. Daarna ben ik opnieuw bezig geweest met traditionele vaas vormen die uit proportie zijn getrokken. Dus de functie van de vaas in vraag stellen. Hiervoor heb ik me geïnspireerd op Blossfeldt een Duitse kunstenaar die detailfoto's nam van de natuur.",
+          "text": "In haar 2de jaar op Sint Lukas, school of arts, heeft ze haar verder gefocust op sculptuur. Het concept: de opwarming van de aarde, hiervoor heeft ze een tak van 1m geboetseerd en deze geglazuurd met zilveren glazuur. &nbsp;Deze tak heeft ze dan op verschillende openbare plaatsen gelegd om te zien of deze opging in de omgeving. Daarna os ze opnieuw bezig geweest met de traditionele vaas vormen die uit proportie zijn getrokken. Dus de functie van de vaas in vraag stellen. Hiervoor heeft ze haar laten inspireren door Blossfeldt een Duitse kunstenaar die detailfoto's nam van de natuur.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -686,7 +728,12 @@
               "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#9c9a9a",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-lead P": {
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -714,7 +761,7 @@
             "showButtons": true
           },
           "title": "2016-2017",
-          "text": "Vanaf begin februari begon ik aan een nieuw project. Ik koos er voor om verder te gaan op mijn project van Zweden waar ik een vorm maakte die uit verschillende delen was opgebouwd. In dit project wou ik een vaasvorm maken van 2m10. Ook hier baseerde ik me op Blossfeldt. Ik probeer met dit werk de dreiging van de natuur vast te leggen in een sculptuur.&nbsp;",
+          "text": "<p>Vanaf begin februari begon Elvira aan een nieuw project. Ze&nbsp;koos er voor om verder te gaan op haar project van Zweden waar ze een vorm maakte die uit verschillende delen was opgebouwd. In dit project wou ze een vaasvorm maken van 2m10. Ook hier baseerde zij zich op Blossfeldt. Ik probeer met dit werk de dreiging van de natuur vast te leggen in een sculptuur.&nbsp;</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Meer over Zweden: klik hier</a>"
         },
         {
@@ -827,7 +874,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -885,7 +934,7 @@
             "sticky": true,
             "logo": true,
             "showBrand": true,
-            "collapsed": true,
+            "collapsed": false,
             "hideButtons": true
           },
           "logo": {
@@ -917,7 +966,10 @@
               "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#9c9a9a",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -945,8 +997,171 @@
             "showButtons": false
           },
           "title": "Zweden",
-          "text": "Van 15augustus to 15februari heb ik een erasmus gedaan in Zweden: Gothenborg.&nbsp;",
+          "text": "Van 15augustus to 15februari zat Elvira op erasmus in Zweden: Gothenborg. Hier leerde ze werken met houtovens, reductieovens en de gewone curve ovens. Maar ook op vlak van time management en efficientie leerde ze veel bij. Het systeem in Zweden is dan ook anders, daar werken ze aan de hand van opdrachten die ingedient worden na een bepaalde periode.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14908395-10207531731276431-1116667411800668896-n-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14908395-10207531731276431-1116667411800668896-n.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14963251-10207531723076226-6393053610083766381-n-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14963251-10207531723076226-6393053610083766381-n.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blabla-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blabla.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-10-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/corridor-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/corridor.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-11-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-13-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-13.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-12-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-12.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-14-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-14.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/corridor-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/corridor.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-s",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }

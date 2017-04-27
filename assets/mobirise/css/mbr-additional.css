@@ -1,6 +1,15 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
+
+
 
 
 
@@ -415,16 +424,24 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+#header1-2 .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#header1-2 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
 #header1-8 .mbr-section-title {
   font-size: 18px;
-  color: #efefef;
+  color: #cccccc;
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-3 .navbar-caption {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-3 .navbar-toggler {
   color: #ffffff;
@@ -436,6 +453,7 @@ h6,
 #menu-3 .link,
 #menu-3 .dropdown-item {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-3 .link {
   font-size: 0.95rem;
@@ -482,9 +500,14 @@ h6,
   color: #c0a375!important;
 }
 #features3-7 H5 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 16px;
   color: #000000;
+  text-align: left;
+}
+#features3-7 P {
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
 }
 #social-buttons2-c .mbr-section-title,
 #social-buttons2-c .btn-social {
@@ -493,29 +516,46 @@ h6,
 #social-buttons2-c .mbr-section-title {
   color: #cccccc;
 }
+#contacts2-e P {
+  font-family: 'Oswald', sans-serif;
+}
+
 #header5-f .mbr-section-title {
   color: #000;
 }
 #header5-f .mbr-section-lead {
   color: #9c9a9a;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
 }
+
 #header5-h .mbr-section-title {
   color: #000;
 }
 #header5-h .mbr-section-lead {
   color: #9c9a9a;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
 }
+
 #header5-n .mbr-section-title {
   color: #000;
 }
 #header5-n .mbr-section-lead {
   color: #9c9a9a;
+  font-family: 'Oswald', sans-serif;
 }
+#header5-n .mbr-section-lead P {
+  font-size: 20px;
+}
+
+
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-p .navbar-caption {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-p .navbar-toggler {
   color: #ffffff;
@@ -577,4 +617,6 @@ h6,
 }
 #header5-r .mbr-section-lead {
   color: #9c9a9a;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
 }
