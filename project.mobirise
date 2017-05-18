@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "website nederlands",
+    "name": "Engels 2017",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -79,7 +79,7 @@
           },
           "title": "Elvira De Pelsmacker",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://elviradepelsmacker.github.io/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">English</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://elviradepelsmacker.github.io/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Dutch</a>"
         },
         {
           "_tags": [
@@ -214,7 +214,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biografie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projecten</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Zweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -272,7 +272,7 @@
           },
           "title1": "2014-2015",
           "subtitle1": "",
-          "caption1": "In het eerste jaar kwam Elvira voor het eerst in contact met groot opbouwen.&nbsp;",
+          "caption1": "In haar eerste jaar is Elvira voor het eerst in contact gekomen met groot opbouwen van vazen.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
           "media2": {
             "image": {
@@ -304,7 +304,7 @@
           },
           "title3": "2016-2017",
           "subtitle3": "",
-          "caption3": "van 15 augustus tot 15 februari heef Elvira in Zweden gezeten voor haar studie. Vanaf januari is ze terug begonnen in Gent met het verder uitwerken van groot werken. Haar project draait terug rond Blossfeldt en bestaat uit een vaas van maar liefst 2m10.&nbsp;",
+          "caption3": "an 15 augustus tot 15 februari heef Elvira in Zweden gezeten voor haar studie. Vanaf januari is ze terug begonnen in Gent met het verder uitwerken van groot werken. Haar project draait terug rond Blossfeldt en bestaat uit een vaas van maar liefst 2m10.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
           "media4": {
             "image": {
@@ -406,7 +406,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres</strong><br>Beukenweg 15, 8210 Loppem<br><br><br>\n<strong>Contact</strong><br>\nEmail: elviradepelsmacker@gmail.com<br>",
+          "text1": "<strong>Adres</strong><br>beukenweg 15, 8210 Loppem<br><br><br>\n<strong>Contact</strong><br>\nEmail: elviradepelsmacker@gmail.com<br>",
           "text2": "<ul></ul>"
         }
       ]
@@ -455,7 +455,7 @@
             "showButtons": false
           },
           "title": "2015-2014",
-          "text": "Eerste jaar Keramiek in Sint-Lukas school of arts te Gent. &nbsp;In dit jaar is Elvira eerst bezig geweest met de vorm van bloemen en deze omgezet naar sculpturen om haar vervolgens bezig te houden met vazen en deze te vergroten.",
+          "text": "The first year ceramics in Sint-Lukas school of arts in Ghent.miek in Sint-Lukas school of arts te Gent. &nbsp;In this year Elvira started working around nature and the forms you can find in nature. She enlarged these and made sculptures from them. After the sculptures she focused on Greek traditional vases.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
@@ -660,7 +660,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biografie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projecten</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Zweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -708,7 +708,7 @@
             "showButtons": false
           },
           "title": "2015-2016",
-          "text": "In haar 2de jaar in Sint-Lukas, school of arts, heeft ze haar gefocust op sculptuur. Het concept: De opwarming van de aarde, voor dit project heeft ze een tak geboetseerd, schaal 1m, met een zilver glazuur. Ze plaatste dit werk in een openbare ruimte om te zien of het werk zou opgaan in de omgeving. Het project na dit project was opnieuw gefocust op de traditionele vaasvorm die uitvergroot werden. Zo stelt ze de functie van de vaas in vraag. Haar inspiratie kwam van de Duitse kunstenaar Blossfeldt die gedetaileerde foto's nam van de natuur.",
+          "text": "In her 2nd year at Sint-Lukas, she focused further on sculpture. The concept: Global warming, herefor she sculpted a branch, scale 1m, and glazed it in silver. She placed this branch on different locations to see if it would blend in with the surroundings. The next project was again about the traditional vaseform and the scale.She is questioning the function of the vase. She got her inspiration from Blossfeldt, the German artist who photografed plants.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -903,7 +903,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -953,8 +953,8 @@
             "showButtons": true
           },
           "title": "2016-2017",
-          "text": "<p>Vanaf begin februari begon Elvira aan een nieuw project. Ze&nbsp;koos er voor om verder te gaan op haar project van Zweden waar ze een vorm maakte die uit verschillende delen was opgebouwd. In dit project wou ze een vaasvorm maken van 2m10. Ook hier baseerde zij zich op Blossfeldt. Ik probeer met dit werk de dreiging van de natuur vast te leggen in een sculptuur.&nbsp;</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Meer over Zweden: klik hier</a>"
+          "text": "<p>In februari Elvir started with a new project. She choose to work further with the work she was doing in Sweden, where she made a form existing out of 10 different parts. In this project she made a vase from 2m10, again she used Blossfeldt as an inspiration.&nbsp;</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">more about Sweden</a>"
         },
         {
           "_inherit": "gallery1",
@@ -1138,7 +1138,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1237,7 +1237,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biografie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"false\">projecten</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Zweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
@@ -1249,6 +1249,9 @@
               "color": "#9c9a9a",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-lead P": {
               "font-size": "20px"
             }
           },
@@ -1276,8 +1279,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Zweden",
-          "text": "Van 15augustus to 15februari zat Elvira op erasmus in Zweden: Gothenborg. Hier leerde ze werken met houtovens, reductieovens en de gewone curve ovens. Maar ook op vlak van time management en efficientie leerde ze veel bij. Het systeem in Zweden is dan ook anders, daar werken ze aan de hand van opdrachten die ingedient worden na een bepaalde periode.&nbsp;",
+          "title": "Sweden",
+          "text": "<p>from the 15th of august to the 15th of februari Elvira was studying in Sweden: Gothenborg. She learned to work with a reductionkiln, woodfiring and with the standard kilns. She also learned to work with time management and efficientie.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
