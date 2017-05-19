@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Engels 2017",
-    "currentPage": "index.html",
+    "name": "Nederlands 2017",
+    "currentPage": "2013.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 31,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -32,14 +32,15 @@
     "cookiesAlert": "deze site gebruikt cookies "
   },
   "pages": {
-    "index.html": {
+    "Elvira de pelsmacker.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Elvira De Pelsmacker",
         "meta_descr": "ceramics, sweden, Elvira De Pelsmacker, Elvira, De Pelsmacker, keramiek, sculptuur, Anne Perneel, kunst, ambacht, draaiwerk, servies, vaas, vazen, Blossfeldt, sint lukas school of arts, school of arts, Belgium, Gent, Gothenburg, HDK, ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -79,7 +80,7 @@
           },
           "title": "Elvira De Pelsmacker",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://elviradepelsmacker.github.io/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Dutch</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://elviradepelsmacker.github.io/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">English</a>"
         },
         {
           "_tags": [
@@ -115,7 +116,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Elvira De Pelsmacker (Brugge, 1994°)<br>Opgegroeid in een huis vol kunst en met kunstenaars als ouders, was de keuze evident om zelf ook voor kunst te gaan. Vanaf haar 12de leerde ze de draaischijf kennen. Het was toen dat zij besefte dat keramiek in haar handen zat. Zes jaar later besloot ze dan ook om zelf keramiek te studeren in Sint-Lukas school of arts in Gent. Hier leerde ze een andere kant van de keramiek kennen: de artistieke kant. Alhoewel ze bleef oefenen op &nbsp;draaiwerk begon ze toch meer en meer bezig te zijn met sculptuur. Zo combineert ze de beide talenten van haar ouders. Toch blijft de ambacht in de keramiek voor haar een belangrijk punt.&nbsp;<br>&nbsp; &nbsp;&nbsp;",
+          "title": "Elvira De Pelsmacker (Brugge, 1994°)<br>Growing up &nbsp;with parents who are artist the choice was evident to go for arts herself. When she was 12 years old she learned to know the throwing wheel. Thats when she knew thats she liked ceramics. Six year later she decided to study ceramics in Sint-Lukas school of arts in Ghent. She got to know ceramics in a knew way: the artistic way. Although she kept on practicing on throwing she did start to focus more on sculpting. &nbsp;She combines both the talents of her parents in her work. Toch blijft de ambacht in de keramiek voor haar een belangrijk punt.&nbsp;<br>&nbsp; &nbsp;&nbsp;",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -214,7 +215,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biografie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projecten</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Zweden</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"true\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -272,7 +273,7 @@
           },
           "title1": "2014-2015",
           "subtitle1": "",
-          "caption1": "In haar eerste jaar is Elvira voor het eerst in contact gekomen met groot opbouwen van vazen.&nbsp;",
+          "caption1": "In her first yearhaar eerste jaar is Elvira voor het eerst in contact gekomen met groot opbouwen van vazen.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
           "media2": {
             "image": {
@@ -348,6 +349,21 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-u",
+          "_params": {
+            "googleMap": {
+              "address": "anne perneel, beukenweg 15 8210 loppem",
+              "placeId": "ChIJHeqwCMdRw0cR0DzzFlGawZ0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
@@ -362,10 +378,10 @@
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-c",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "4",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-12.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
@@ -380,772 +396,69 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
+          "_name": "form1",
           "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          },
-          "_anchor": "contacts2-e",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Anne perneel, beukenweg 15 zedelgem",
-              "placeId": "ChIJHeqwCMdRw0cR0DzzFlGawZ0",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Adres</strong><br>beukenweg 15, 8210 Loppem<br><br><br>\n<strong>Contact</strong><br>\nEmail: elviradepelsmacker@gmail.com<br>",
-          "text2": "<ul></ul>"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "title": "Web Page Maker Title",
-        "meta_descr": "ceramics, sweden, Elvira De Pelsmacker, Elvira, De Pelsmacker, keramiek, sculptuur, Anne Perneel, kunst, ambacht, draaiwerk, servies, vaas, vazen, Blossfeldt, sint lukas school of arts, school of arts, Belgium, Gent, Gothenburg, HDK"
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
             ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-f",
+          "_anchor": "form1-t",
           "_params": {
-            "parallax": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
-            "showArrow": true,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#000000",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
+            "overlayColor": "#222",
             "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "showSubTitle": false
           },
-          "title": "2015-2014",
-          "text": "The first year ceramics in Sint-Lukas school of arts in Ghent.miek in Sint-Lukas school of arts te Gent. &nbsp;In this year Elvira started working around nature and the forms you can find in nature. She enlarged these and made sculptures from them. After the sculptures she focused on Greek traditional vases.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-12-800x537.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-12.jpg",
-                "caption": "Type caption here",
-                "active": false
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "elviradepelsmacker@gmail.com",
+            "alerts": {
+              "success": "Thank you for sending a message"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
               },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/blauwe-steen-1-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/blauwe-steen-1.jpg",
-                "caption": "Type caption here",
-                "active": false
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
               },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-13-800x481.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-13.jpg",
-                "caption": "Type caption here",
-                "active": false
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
               },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-14-800x536.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-14.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-15-800x536.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-15.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-17-800x537.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-17.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-16-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-16.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-18-800x537.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-18.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-16-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-16.jpg",
-                "caption": "Type caption here",
-                "active": false
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-g",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-p",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biografie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projecten</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Zweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         }
       ]
     },
-    "page2.html": {
+    "Zweden.html": {
       "settings": {
-        "title": "Web Generator Title",
-        "meta_descr": "Web Generator Description"
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-h",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "2015-2016",
-          "text": "In her 2nd year at Sint-Lukas, she focused further on sculpture. The concept: Global warming, herefor she sculpted a branch, scale 1m, and glazed it in silver. She placed this branch on different locations to see if it would blend in with the surroundings. The next project was again about the traditional vaseform and the scale.She is questioning the function of the vase. She got her inspiration from Blossfeldt, the German artist who photografed plants.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tak5-800x523.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tak5.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/13133233-10206254623589537-1354813081393818477-n-1-800x761.jpg",
-                "image": "@PROJECT_PATH@/assets/images/13133233-10206254623589537-1354813081393818477-n-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/12985623-10206084676260960-3664803451654554706-n-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12985623-10206084676260960-3664803451654554706-n-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-11-800x645.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-11.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15356724-10207847401087979-7810785953961989901-n-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15356724-10207847401087979-7810785953961989901-n-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14081077-10206935755257403-1303555882-n-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14081077-10206935755257403-1303555882-n.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15350443-1827793244103953-3007743355156382247-n-1-800x1161.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15350443-1827793244103953-3007743355156382247-n-1.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-i",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-p",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "title": "Web Site Generator Title",
-        "meta_descr": "Web Site Generator Description"
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-lead P": {
-              "font-size": "20px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-n",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "2016-2017",
-          "text": "<p>In februari Elvir started with a new project. She choose to work further with the work she was doing in Sweden, where she made a form existing out of 10 different parts. In this project she made a vase from 2m10, again she used Blossfeldt as an inspiration.&nbsp;</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">more about Sweden</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-15-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-15.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-17-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-17.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-18-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-18.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-19-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-19.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/18308708-10212877752757770-1969949124-n-800x1207.jpg",
-                "image": "@PROJECT_PATH@/assets/images/18308708-10212877752757770-1969949124-n.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-21-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-21.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-o",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-p",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "title": "Site Maker Title",
-        "meta_descr": "Site Maker Description"
+        "title": "Zweden",
+        "meta_descr": "Site Maker Description",
+        "order": 5
       },
       "components": [
         {
@@ -1445,6 +758,740 @@
           "_anchor": "gallery3-s",
           "articleLayout": false,
           "allItem": "All"
+        }
+      ]
+    },
+    "2013.html": {
+      "settings": {
+        "title": "Web Page Maker Title",
+        "meta_descr": "ceramics, sweden, Elvira De Pelsmacker, Elvira, De Pelsmacker, keramiek, sculptuur, Anne Perneel, kunst, ambacht, draaiwerk, servies, vaas, vazen, Blossfeldt, sint lukas school of arts, school of arts, Belgium, Gent, Gothenburg, HDK",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-f",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "2015-2014",
+          "text": "In het eerste jaar in Sint-Lukas he first year ceramics in Sint-Lukas school of arts in Ghent.miek in Sint-Lukas school of arts te Gent. &nbsp;In this year Elvira started working around nature and the forms you can find in nature. She enlarged these and made sculptures from them. After the sculptures she focused on Greek traditional vases.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-12-800x537.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-12.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blauwe-steen-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blauwe-steen-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-13-800x481.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-13.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-14-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-14.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-15-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-15.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-17-800x537.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-17.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-16-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-16.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-18-800x537.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-18.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-16-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-16.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-g",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biografie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projecten</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Zweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "2014.html": {
+      "settings": {
+        "title": "2014-2015",
+        "meta_descr": "Web Generator Description",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-h",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "2015-2016",
+          "text": "In her 2nd year at Sint-Lukas, she focused further on sculpture. The concept: Global warming, herefor she sculpted a branch, scale 1m, and glazed it in silver. She placed this branch on different locations to see if it would blend in with the surroundings. The next project was again about the traditional vaseform and the scale.She is questioning the function of the vase. She got her inspiration from Blossfeldt, the German artist who photografed plants.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tak5-800x523.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tak5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13133233-10206254623589537-1354813081393818477-n-1-800x761.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13133233-10206254623589537-1354813081393818477-n-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12985623-10206084676260960-3664803451654554706-n-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12985623-10206084676260960-3664803451654554706-n-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-11-800x645.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15356724-10207847401087979-7810785953961989901-n-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15356724-10207847401087979-7810785953961989901-n-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14081077-10206935755257403-1303555882-n-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14081077-10206935755257403-1303555882-n.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15350443-1827793244103953-3007743355156382247-n-1-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15350443-1827793244103953-3007743355156382247-n-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-i",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "2015.html": {
+      "settings": {
+        "title": "Web Site Generator Title",
+        "meta_descr": "Web Site Generator Description",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-n",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "2016-2017",
+          "text": "<p>In februari Elvir started with a new project. She choose to work further with the work she was doing in Sweden, where she made a form existing out of 10 different parts. In this project she made a vase from 2m10, again she used Blossfeldt as an inspiration.&nbsp;</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">more about Sweden</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-15-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-15.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-17-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-17.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-18-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-18.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-19-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-19.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18308708-10212877752757770-1969949124-n-800x1207.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18308708-10212877752757770-1969949124-n.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-21-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-21.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-o",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dsc.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"false\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
