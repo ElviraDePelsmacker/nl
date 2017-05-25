@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Nederlands 2017",
-    "currentPage": "2013.html",
+    "name": "Engels 2017",
+    "currentPage": "Zweden.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-96166865-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99938294-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "cookiesAlert": "deze site gebruikt cookies "
@@ -80,7 +80,7 @@
           },
           "title": "Elvira De Pelsmacker",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://elviradepelsmacker.github.io/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">English</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://elviradepelsmacker.github.io/nl/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Dutch</a>"
         },
         {
           "_tags": [
@@ -116,7 +116,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Elvira De Pelsmacker (Brugge, 1994°)<br>Growing up &nbsp;with parents who are artist the choice was evident to go for arts herself. When she was 12 years old she learned to know the throwing wheel. Thats when she knew thats she liked ceramics. Six year later she decided to study ceramics in Sint-Lukas school of arts in Ghent. She got to know ceramics in a knew way: the artistic way. Although she kept on practicing on throwing she did start to focus more on sculpting. &nbsp;She combines both the talents of her parents in her work. Toch blijft de ambacht in de keramiek voor haar een belangrijk punt.&nbsp;<br>&nbsp; &nbsp;&nbsp;",
+          "title": "Elvira De Pelsmacker (Brugge, 1994°)<br>Growing up &nbsp;with parents who are artist the choice was evident to go for arts herself. When she was 12 years old she learned to know the throwing wheel. Thats when she knew thats she liked ceramics. Six year later she decided to study ceramics in Sint-Lukas school of arts in Ghent. She got to know ceramics in a knew way: the artistic way. Although she kept on practicing on throwing she did start to focus more on sculpting. &nbsp;She combines both the talents of her parents in her work. &nbsp;Craft is an important part in ceramics for her.&nbsp;<br>&nbsp; &nbsp;&nbsp;",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -215,7 +215,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Elvira De Pelsmacker</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biografie</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"true\">projecten</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Zweden</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"true\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts2-e\">adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">biographie</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#features3-7\" aria-expanded=\"false\">projects</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">2014-2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">2015-2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">2016-2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Sweden</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#contacts2-e\" aria-expanded=\"true\">contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons2-c\">sociale media</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Elvira de pelsmacker.html#form1-t\" aria-expanded=\"true\">contact form<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Elvira de pelsmacker.html#map2-u\">Adres</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -273,8 +273,8 @@
           },
           "title1": "2014-2015",
           "subtitle1": "",
-          "caption1": "In her first yearhaar eerste jaar is Elvira voor het eerst in contact gekomen met groot opbouwen van vazen.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
+          "caption1": "In her first year &nbsp;Elvira &nbsp;came for the first time in contact with building big vases.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">more info</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/tak5.jpg",
@@ -289,8 +289,8 @@
           },
           "title2": "2015-2016",
           "subtitle2": "",
-          "caption2": "verder vanuit het groot opbouwen is Elvira bezig geweest met groot werken. Eerste project was een sculptuur gebaseerd op Blossfeldt. Met haar tweede project is zij hierop verder gegaan.",
-          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
+          "caption2": "Continuing on building big. First project was a sculpture based on Blossfeldt. She continued working with this with her second project.",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">more info</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-15.jpg",
@@ -305,8 +305,8 @@
           },
           "title3": "2016-2017",
           "subtitle3": "",
-          "caption3": "an 15 augustus tot 15 februari heef Elvira in Zweden gezeten voor haar studie. Vanaf januari is ze terug begonnen in Gent met het verder uitwerken van groot werken. Haar project draait terug rond Blossfeldt en bestaat uit een vaas van maar liefst 2m10.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
+          "caption3": "From the 15th of august until the 15th of februari Elvira studied in Sweden. In januari she started again in Ghent. Again focussing on big work. Her project was based on Blossfelds and excist out of a vase from 2m10.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">more info</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/img-6.jpg",
@@ -320,9 +320,9 @@
             }
           },
           "title4": "Zweden",
-          "subtitle4": "In Zweden had Elvira de kans om verder te groeien in haar studie. Door verschillende opdrachten leerde ze om te gaan met verantwoordelijkheid.&nbsp;",
+          "subtitle4": "In Sweden Elvira had the chance to grow further in het profession. Through different assignments she learned to be responsible.&nbsp;",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">meer info</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">more info</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -347,21 +347,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-u",
-          "_params": {
-            "googleMap": {
-              "address": "anne perneel, beukenweg 15 8210 loppem",
-              "placeId": "ChIJHeqwCMdRw0cR0DzzFlGawZ0",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
         },
         {
           "_styles": {
@@ -451,13 +436,31 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-u",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#000000",
+            "googleMap": {
+              "address": "Anne perneel, beukenweg 15 8210 Loppem",
+              "placeId": "ChIJHeqwCMdRw0cR0DzzFlGawZ0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
         }
       ]
     },
     "Zweden.html": {
       "settings": {
         "title": "Zweden",
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "ceramics, sweden, Elvira De Pelsmacker, Elvira, De Pelsmacker, keramiek, sculptuur, Anne Perneel, kunst, ambacht, draaiwerk, servies, vaas, vazen, Blossfeldt, sint lukas school of arts, school of arts, Belgium, Gent, Gothenburg, HDK, ",
         "order": 5
       },
       "components": [
@@ -806,7 +809,7 @@
             "showButtons": false
           },
           "title": "2015-2014",
-          "text": "In het eerste jaar in Sint-Lukas he first year ceramics in Sint-Lukas school of arts in Ghent.miek in Sint-Lukas school of arts te Gent. &nbsp;In this year Elvira started working around nature and the forms you can find in nature. She enlarged these and made sculptures from them. After the sculptures she focused on Greek traditional vases.",
+          "text": "The first year ceramics in Sint-Lukas school of arts in Ghent. In this year Elvira started working around nature and the forms you can find in nature. She enlarged these and made sculptures from them. After the sculptures she focused on Greek traditional vases.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         },
         {
@@ -1018,7 +1021,7 @@
     "2014.html": {
       "settings": {
         "title": "2014-2015",
-        "meta_descr": "Web Generator Description",
+        "meta_descr": "ceramics, sweden, Elvira De Pelsmacker, Elvira, De Pelsmacker, keramiek, sculptuur, Anne Perneel, kunst, ambacht, draaiwerk, servies, vaas, vazen, Blossfeldt, sint lukas school of arts, school of arts, Belgium, Gent, Gothenburg, HDK, ",
         "order": 3
       },
       "components": [
@@ -1262,7 +1265,7 @@
     "2015.html": {
       "settings": {
         "title": "Web Site Generator Title",
-        "meta_descr": "Web Site Generator Description",
+        "meta_descr": "ceramics, sweden, Elvira De Pelsmacker, Elvira, De Pelsmacker, keramiek, sculptuur, Anne Perneel, kunst, ambacht, draaiwerk, servies, vaas, vazen, Blossfeldt, sint lukas school of arts, school of arts, Belgium, Gent, Gothenburg, HDK, ",
         "order": 4
       },
       "components": [
